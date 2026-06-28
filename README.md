@@ -20,7 +20,7 @@ Inclusión de números.
 Inclusión de caracteres especiales.
 Generación aleatoria utilizando Python.
 
-Fecha
+Fecha:
 28 de Junio de 2026.
 
 Introducción
