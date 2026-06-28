@@ -21,7 +21,7 @@ Inclusión de caracteres especiales.
 Generación aleatoria utilizando Python.
 Fecha
 
-Junio de 2026.
+28 de Junio de 2026.
 
 Introducción
 
